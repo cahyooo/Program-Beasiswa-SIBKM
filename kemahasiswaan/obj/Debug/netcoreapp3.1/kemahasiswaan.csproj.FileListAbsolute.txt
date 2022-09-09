@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\bin\Debug\netcoreapp3.1\kemahasiswaan.exe
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\bin\Debug\netcoreapp3.1\kemahasiswaan.deps.json
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\bin\Debug\netcoreapp3.1\kemahasiswaan.runtimeconfig.json
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\bin\Debug\netcoreapp3.1\kemahasiswaan.runtimeconfig.dev.json
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\bin\Debug\netcoreapp3.1\kemahasiswaan.dll
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\bin\Debug\netcoreapp3.1\kemahasiswaan.pdb
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\obj\Debug\netcoreapp3.1\kemahasiswaan.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\obj\Debug\netcoreapp3.1\kemahasiswaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\obj\Debug\netcoreapp3.1\kemahasiswaan.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\obj\Debug\netcoreapp3.1\kemahasiswaan.AssemblyInfo.cs
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\obj\Debug\netcoreapp3.1\kemahasiswaan.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\obj\Debug\netcoreapp3.1\kemahasiswaan.dll
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\obj\Debug\netcoreapp3.1\kemahasiswaan.pdb
+C:\Users\asus\source\repos\kemahasiswaan\kemahasiswaan\obj\Debug\netcoreapp3.1\kemahasiswaan.genruntimeconfig.cache
